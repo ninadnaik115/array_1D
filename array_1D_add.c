@@ -19,6 +19,5 @@ int main()
         sum+=*parr++;
     }
     average=sum/10;
-    printf("\nsum=%d\n",sum);
-    printf("average=%.2f\n",average);
+    printf("\nsum=%d   average=%.2f\n",sum,average);
 }
