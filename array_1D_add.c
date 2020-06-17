@@ -13,6 +13,7 @@ int main()
     {
         printf("%d\t",arr[i]);
     }
+    a=0;
     int *parr=arr;
     for(i=0;i<10;i++)
     {
